@@ -50,6 +50,9 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+    // salam
+
     @Composable
     private fun TextResult(s: String) {
         Text(text = s,
